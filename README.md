@@ -3,7 +3,7 @@
 A simple yet powerful **Expense Tracker** app built using **Next.js, Neon, Clerk, and Prisma**. This application allows users to track their expenses efficiently while ensuring a **secure and seamless authentication process**.
 
 ## 🌍 Live Demo  
-🚀 Check out the app live here: **[Expense Tracker - Live Demo]([https://your-vercel-demo-url.vercel.app](https://expense-tracker-gamma-amber.vercel.app/))**  
+🚀 Check out the app live here: **[Expense Tracker - Live Demo](https://expense-tracker-gamma-amber.vercel.app/)**  
 
 ---
 
